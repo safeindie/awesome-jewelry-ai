@@ -422,7 +422,7 @@ The broadest jewelry-specialized platform: combines AI photography, worn jewelry
 - **CAD generation**: generate jewelry CAD designs from reference images - a capability absent from all other platforms in this list.
 - Preserves geometry, metal type, gemstone color, and setting details across generation.
 - Target: jewelry brands, ecommerce operators, designers, and photographers.
-- Pricing: credit-based, from $9/month.
+- Pricing: credit-based, from $2 (one-time).
 
 **[Tashvi Studio](https://tashvi.ai/)**
 AI jewelry design and visualization platform purpose-built for creators, retailers, and manufacturers. Features include:
